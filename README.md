@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 6 [Live Link](#)
+## Project 6 [Live Link](https://live-proj-6.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to decleare **Internal stylesheets** which is not a good practise.
